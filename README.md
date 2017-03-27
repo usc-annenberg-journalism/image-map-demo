@@ -5,3 +5,5 @@ For the purposes of this demo, you'll have to go to this website to actually cre
 http://summerstyle.github.io/summer/
 
 Fancybox is included in these files but it's not mandatory for making the actual image maps. It's only needed if you want to make popups when people click on the hotspots.
+
+Working sample here: http://jenndelafuente.com/danieltran/
